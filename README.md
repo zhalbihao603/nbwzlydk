@@ -1,0 +1,2 @@
+# nbwzlydk
+利用sectionedRecyclerViewAdapter实现分组列表的recyclerView利用sectionedRecyclerViewAdapter实现分组列表的recyclerView
